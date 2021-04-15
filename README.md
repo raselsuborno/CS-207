@@ -2,7 +2,7 @@
 
 Weather in Canada is random, it changes within a moment. So, whenever i get a mail in my mailbox and if it is snowy or rainy outside my mail gets damaged. I decided to make a  project which will help me knowing when my mail is getting delivered.  
 
-This specific project is an Arduino based mail notifier prototype. It was built for A CS 207 class. I was inspired by a youtuber called CuriouslyCory.  
+This specific project is an Arduino based mail notifier prototype. It was built for CS 207 class. I was inspired by a youtuber called CuriouslyCory.  
 
 
 ![alt text][pic1]
