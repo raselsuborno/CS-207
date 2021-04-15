@@ -7,7 +7,7 @@ This specific project is an Arduino based mail notifier prototype. It was built 
 
 ![alt text][pic1]
 
-[pic1]: https://github.com/raselsuborno/CS-207/blob/main/img/IMG_5154.jpg "Logo Title Text 2"
+[pic1]: https://github.com/raselsuborno/CS-207/blob/main/img/IMG_5153.jpg "Logo Title Text 2"
 
 
 Repository Contents
