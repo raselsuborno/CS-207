@@ -6,7 +6,7 @@ Weather in Canada is random, it changes within a moment. So, whenever i get a ma
 This specific project is an Arduino based mail notifier prototype. It was built for A CS 207 class. I was inspired by a youtuber called CuriouslyCory.  
 
 
-[pic1]: https://github.com/raselsuborno/CS-207/blob/main/img/IMG_5154.jpg "Logo Title Text 2"
+[pic1]: https://github.com/raselsuborno/CS-207/blob/main/img/IMG_5154.jpg 
 ![alt text][pic1]
 
 
