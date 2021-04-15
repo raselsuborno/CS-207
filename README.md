@@ -1,13 +1,13 @@
 # Mailbox Notifier [version 1.0.0]
-[![License](https://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/phpunit/phpunit)
 
 Weather in Canada is random, it changes within a moment. So, whenever i get a mail in my mailbox and if it is snowy or rainy outside my mail gets damaged. I decided to make a  project which will help me knowing when my mail is getting delivered.  
 
 This specific project is an Arduino based mail notifier prototype. It was built for A CS 207 class. I was inspired by a youtuber called CuriouslyCory.  
 
 
-[pic1]: https://github.com/raselsuborno/CS-207/blob/main/img/IMG_5154.jpg 
 ![alt text][pic1]
+
+[pic2]: https://github.com/raselsuborno/CS-207/blob/main/img/IMG_5154.jpg "Logo Title Text 2"
 
 
 Repository Contents
