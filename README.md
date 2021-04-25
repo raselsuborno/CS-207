@@ -14,8 +14,9 @@ Repository Contents
 ============
 Here's where you'll provide a map of all the top-level contents (where applicable):
 
-* **/src** - Here's where the software for your device goes (.ino, .cpp).
-* **/hardware** - All the PCB design files / 3D models (.ftz, .brd, .sch, .stl). 
+** **/src** - Here's where the software for your device goes (.ino, .cpp).
+* **/hardware** - All the PCB design files / 3D models (.ftz, .brd, .sch, .stl).
+* **/build** - Files that are compiled and ready to run / upload.
 * **/img** - This is where the image files for this readme are! Yay!
 * **/LICENSE** - The license file.
 * **/README.md** - The file you're reading now! :-D
