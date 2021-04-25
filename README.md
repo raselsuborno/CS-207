@@ -55,12 +55,12 @@ The build is quite easier. However, the ESP module is a bit trickier to connect 
 
 ![alt text][pic4]
 
-[pic3]: https://github.com/raselsuborno/CS-207/blob/main/Hardware/Notifier.jpg "Logo Title Text 2"
+[pic4]: https://github.com/raselsuborno/CS-207/blob/main/Hardware/Notifier.jpg "Logo Title Text 2"
 
 
 ![alt text][pic5]
 
-[pic2]: https://github.com/raselsuborno/CS-207/blob/main/Hardware/Notifier_schem.jpg "Logo Title Text 3"
+[pic5]: https://github.com/raselsuborno/CS-207/blob/main/Hardware/Notifier_schem.jpg "Logo Title Text 3"
 
 Note that The ESP module can only take 3.3V of power the 5V power can kill the chip. Use a voltage devider for the programming device which does not have specific 3.3 volt power. 
 
